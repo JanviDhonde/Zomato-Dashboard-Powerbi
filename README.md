@@ -55,7 +55,7 @@ The goal of this project is to leverage Power BI to analyze Zomato's data and cr
 
 
 ### 📋 Dashboard Preview
-![Dashboard Preview](path-to-dashboard-image)  
+👉 [Check out the full PDF here!](https://github.com/JanviDhonde/Zomato-Dashboard-Powerbi/raw/main/Zomato.pdf)
 
 **Key Metrics**:  
 - Sales: ₹987M  
