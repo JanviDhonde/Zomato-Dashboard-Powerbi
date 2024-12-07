@@ -55,7 +55,17 @@ The goal of this project is to leverage Power BI to analyze Zomato's data and cr
 
 
 ### 📋 Dashboard Preview
-👉 [Check out the full PDF here!](https://github.com/JanviDhonde/Zomato-Dashboard-Powerbi/raw/main/Zomato.pdf)
+#### 🍴 Zomato Dashboard Overview  
+![Zomato Dashboard Overview](https://github.com/JanviDhonde/Zomato-Dashboard-Powerbi/blob/main/1%20ZomatoDashboard.jpg)  
+
+#### 📊 Sales and Revenue Analysis  
+![Sales and Revenue Analysis](https://github.com/JanviDhonde/Zomato-Dashboard-Powerbi/blob/main/2%20Dashboard.jpg)  
+
+#### 👤 User Performance Metrics  
+![User Performance Metrics](https://github.com/JanviDhonde/Zomato-Dashboard-Powerbi/blob/main/3%20User%20Performances.jpg)  
+
+#### 🌆 City-Level Analysis  
+![City-Level Analysis](https://github.com/JanviDhonde/Zomato-Dashboard-Powerbi/blob/main/4%20City%20Analysis.jpg)  
 
 **Key Metrics**:  
 - Sales: ₹987M  
